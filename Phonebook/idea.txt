@@ -1,0 +1,9 @@
+Following are the feature of the phonebook
+1. Search By number
+2. Search By name
+3. Add a Contact
+4. Edit a Contact
+5. View all contact
+7. Back Up Contact
+6. Delete a Contact
+7. Delete all contact
